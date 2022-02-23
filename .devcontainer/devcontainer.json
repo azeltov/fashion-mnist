@@ -19,7 +19,7 @@
         "azure-cli": "latest"
     },
     "hostRequirements": {
-        "memory": "4gb",
+        "memory": "8gb",
     },
     "remoteUser": "vscode",
     "onCreateCommand": "az extension add -n ml -y",
